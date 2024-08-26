@@ -89,7 +89,7 @@
         <mxCell id="gfJM4c03IJpgwYlzWMbe-14" value="Consulter Site" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="241" y="547.5" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="gfJM4c03IJpgwYlzWMbe-27" value="Consulter Patrimoine" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="gfJM4c03IJpgwYlzWMbe-27" value="Consulter patrimoine" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="241" y="175.5" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="L1_0BYCu7gVLp57IwC8j-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;" edge="1" parent="1">
@@ -146,7 +146,7 @@
             <mxPoint x="-3" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gfJM4c03IJpgwYlzWMbe-9" value="Gérer Utulisateurs" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="gfJM4c03IJpgwYlzWMbe-9" value="Gérer utilisateurs" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="241" y="965" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="L1_0BYCu7gVLp57IwC8j-48" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=open;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="gfJM4c03IJpgwYlzWMbe-10" target="L1_0BYCu7gVLp57IwC8j-47">
@@ -157,7 +157,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gfJM4c03IJpgwYlzWMbe-10" value="Gérer les Accès" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="gfJM4c03IJpgwYlzWMbe-10" value="Gérer les a&lt;span style=&quot;background-color: initial;&quot;&gt;ccès&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="241" y="1065" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="L1_0BYCu7gVLp57IwC8j-52" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=open;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="gfJM4c03IJpgwYlzWMbe-11" target="L1_0BYCu7gVLp57IwC8j-47">
@@ -185,10 +185,10 @@
         <mxCell id="L1_0BYCu7gVLp57IwC8j-20" value="Mise à jour des données" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="241" y="362.5" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="gfJM4c03IJpgwYlzWMbe-15" value="Exporter Rapport Visite" style="ellipse;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
+        <mxCell id="gfJM4c03IJpgwYlzWMbe-15" value="Exporter rapport visite" style="ellipse;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
           <mxGeometry x="650" y="552.5" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="gfJM4c03IJpgwYlzWMbe-16" value="Consulter la liste des équipements" style="ellipse;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
+        <mxCell id="gfJM4c03IJpgwYlzWMbe-16" value="Consulter liste des équipements" style="ellipse;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
           <mxGeometry x="650" y="651.5" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gfJM4c03IJpgwYlzWMbe-12" value="Exporter outil de visite" style="ellipse;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
@@ -197,13 +197,13 @@
         <mxCell id="gfJM4c03IJpgwYlzWMbe-13" value="Importer fichier de visite" style="ellipse;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
           <mxGeometry x="650" y="457.5" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="gfJM4c03IJpgwYlzWMbe-1" value="Demander une Analyse Approfondie" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="gfJM4c03IJpgwYlzWMbe-1" value="Demander une analyse approfondie" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="-200" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gfJM4c03IJpgwYlzWMbe-5" value="Consulter page d&#39;accueil" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="-105" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="gfJM4c03IJpgwYlzWMbe-6" value="Consulter&amp;nbsp;Préconisations allumage/arrêt chauffage" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="gfJM4c03IJpgwYlzWMbe-6" value="Consulter préconisations allumage/arrêt chauffage" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="-10" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="L1_0BYCu7gVLp57IwC8j-47" value="Authentification" style="ellipse;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
