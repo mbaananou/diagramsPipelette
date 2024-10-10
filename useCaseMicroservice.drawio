@@ -1,17 +1,17 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="D7_4ocU2lMsQLcXo8JJt">
-    <mxGraphModel dx="1147" dy="1727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2868" dy="1568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="WvORPzhuoS_GhxgGSwOI-67" value="" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="201" y="-80" width="519" height="520" as="geometry" />
+          <mxGeometry x="234" y="290" width="519" height="520" as="geometry" />
         </mxCell>
         <mxCell id="WvORPzhuoS_GhxgGSwOI-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="WvORPzhuoS_GhxgGSwOI-11" target="WvORPzhuoS_GhxgGSwOI-51" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WvORPzhuoS_GhxgGSwOI-11" value="Client" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="65" y="145" width="40" height="80" as="geometry" />
+          <mxGeometry x="98" y="515" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WvORPzhuoS_GhxgGSwOI-49" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classicThin;endFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;" parent="1" source="WvORPzhuoS_GhxgGSwOI-51" target="WvORPzhuoS_GhxgGSwOI-59" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -54,16 +54,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WvORPzhuoS_GhxgGSwOI-51" value="Consulter les tâches" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="262" y="145" width="150" height="80" as="geometry" />
+          <mxGeometry x="295" y="515" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WvORPzhuoS_GhxgGSwOI-59" value="Authentification" style="ellipse;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
-          <mxGeometry x="262" y="330" width="150" height="80" as="geometry" />
+          <mxGeometry x="295" y="700" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WvORPzhuoS_GhxgGSwOI-71" value="Mise à jour automatique des données" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="303" y="-68" width="315" height="38" as="geometry" />
+          <mxGeometry x="336" y="302" width="315" height="38" as="geometry" />
         </mxCell>
         <mxCell id="WvORPzhuoS_GhxgGSwOI-77" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="530" y="10" width="150" height="350" as="geometry" />
+          <mxGeometry x="563" y="380" width="150" height="350" as="geometry" />
         </mxCell>
         <mxCell id="WvORPzhuoS_GhxgGSwOI-66" value="" style="group" parent="WvORPzhuoS_GhxgGSwOI-77" vertex="1" connectable="0">
           <mxGeometry width="150" height="260" as="geometry" />
